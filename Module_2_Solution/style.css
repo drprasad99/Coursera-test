@@ -77,7 +77,7 @@ h1 {
   }
 }
 
-/********** Tablet Width **********/
+/********** Tablet Layout **********/
 @media (min-width: 768px) and (max-width: 991px){
    .col-md-6,  .col-md-12 {
     float: left;
@@ -92,7 +92,7 @@ h1 {
   }
 }
 
-/********** Small devices only **********/
+/********** Mobile Layout **********/
 @media (max-width: 767px) {
   .col-sm-12 {
     float: left;
